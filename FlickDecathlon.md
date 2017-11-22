@@ -4,6 +4,13 @@ In FlickDecathlon you play 10 dexterity events played throughout 1 hour. Your ai
 
 The dexterity events are inspired by the olympic decathlon events.
 
+## MAterial
+
+10 - 20x7 mm discs
+10 - 20mm circle flip 
+10 - cylindrical meeples for pole vaulting
+
+
 ## Mechanic
 
 Compete to win the most points in the decathlon event in the olympics. Each event should score you around 10 points.
