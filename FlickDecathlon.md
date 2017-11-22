@@ -7,7 +7,9 @@ The dexterity events are inspired by the olympic decathlon events.
 ## MAterial
 
 10 - 20x7 mm discs
+
 10 - 20mm circle flip 
+
 10 - cylindrical meeples for pole vaulting
 
 
