@@ -1,0 +1,145 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,margin=0.2in,landscape]{geometry}
+\usepackage{multicol}
+\setlength\columnseprule{0.5pt}
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{titlesec}
+\titleformat{\section}
+  {\color{DarkGreen}\titlerule[0.8pt]\vspace{2pt}\centering\normalfont\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]\normalcolor
+
+
+\PassOptionsToPackage{svgnames}{xcolor}
+\usepackage{tcolorbox}
+\usepackage{lipsum}
+\tcbuselibrary{skins,breakable}
+\usetikzlibrary{shadings,shadows}
+\newenvironment{myblock}[1]{%
+    \tcolorbox[beamer,%
+    noparskip,breakable,
+    colback=LightBlue,colframe=DarkBlue,%
+    colbacklower=DarkBlue!75!LightBlue,%
+    title=#1]}%
+    {\endtcolorbox}
+    
+\definecolor{trickred}{HTML}{FF0000}
+\definecolor{treatblue}{HTML}{0000ff}
+\definecolor{scaryellow}{HTML}{e5e000}
+\definecolor{cutegreen}{HTML}{008000}
+    
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{amsthm}
+\newcounter{lem}[section]\setcounter{lem}{0}
+\newenvironment{lem}[2][]{%
+\refstepcounter{lem}%
+\ifstrempty{#1}%
+{\mdfsetup{%
+frametitle={%
+\tikz[baseline=(current bounding box.east),outer sep=0pt]
+\node[anchor=east,rectangle,fill=LightBlue]
+{\strut Example};}}
+}%
+{\mdfsetup{%
+frametitle={%
+\tikz[baseline=(current bounding box.east),outer sep=0pt]
+\node[anchor=east,rectangle,fill=LightBlue]
+{\strut Example};}}%
+}%
+\mdfsetup{innertopmargin=2pt,linecolor=LightBlue,%
+linewidth=2pt,topline=true,%
+frametitleaboveskip=\dimexpr-\ht\strutbox\relax
+}
+\begin{mdframed}[]\relax%
+\label{#2}}{\end{mdframed}}
+
+%\usepackage{titlesec}
+%\titleformat{\section}
+%  {\normalfont\scshape}{thesection}{1em}{}
+
+
+\begin{document}
+\pagenumbering{gobble}
+\centerline{\bfseries\Huge{Roll and Fright}}
+\begin{multicols}{3}
+\section*{Components}
+
+The game prints out as one sheet that will need to be divided into two player boards (each with eight coloured rectangles of four different colours) and a third street sheet.
+You will need to get yourself:
+\begin{itemize}
+    \itemsep0em 
+    \item four dice to match the four different colours
+    \item two different coloured pens one for each player
+\end{itemize}
+The person who has most recently worn a costume goes first.
+
+\section*{Aim}
+Today is the night of Halloween and as two dueling siblings you'll be trying to eat as much candy as physically possible. But the folk in your town are a stingy lot and will only give out candy once per house. That won't stop you two tricking and treating yourselves to sweets across the neighbourhood.
+
+As I'm sure you know there are the two classic techniques for getting candy, and a couple of costumes styles to help you. These form the four techniques of the game:
+\begin{itemize}
+    \itemsep0em 
+    \item \textcolor{treatblue}{Treating} (blue) - asking politely for some candy.
+    \item \textcolor{trickred}{Tricking} (red) - scaring people out of their wits until they throw candy at you.
+    \item \textcolor{scaryellow}{Scary} (yellow) - freaky costumes to mainly to help trick people.
+    \item \textcolor{cutegreen}{Cute} (green) - sweet disguises to sway your neighbours.
+\end{itemize}
+
+You'll be getting candy by visiting the most houses in a horizontal street or by finishing costumes. But watch out, trick too much more that your other sibling and your parents will take away your precious hard earned sweets.
+
+\section*{How to Play}
+On a player turn they become the active player, they begin by rolling all four different coloured dice. They then select up to two dice. The active player then may cross off the value that all their selected dice sum to, in one of the techniques from the colours of their selected dice. Or if only one dice was selected then they may cross off the value of that single dice from the sheet.
+The remaining dice are given to the other player who must choose two of the remaining dice to sum. Then they may cross of that summed value from one of the colours of selected dice.
+After this the turn passes. The active player moves to the next player.
+
+
+\begin{lem}{Example}
+Player 1 rolls a \textcolor{cutegreen}{green 2}, \textcolor{treatblue}{blue 4}, \textcolor{trickred}{red 5} and \textcolor{scaryellow}{yellow 3}.
+They choose the green and blue dice so they may cross off a \textcolor{treatblue}{treat 6} or a \textcolor{cutegreen}{cute 6}. Passing a red 5 die and yellow 3 die to their opponent. Their opponent must cross off either a \textcolor{trickred}{trick 8} or \textcolor{scaryellow}{scary 8}. But as they have already crossed off both they do nothing.
+\end{lem}
+
+"Wait," you say "isn't that just bingo?"
+Well my friend that's just our little engine that drives the game. You'll notice on the player sheets that next to each and every row and column there is an icon.
+Finish one of these rows and you'll get to use the bonus indicated by the icon. They come in three styles:
+\begin{enumerate}
+    \itemsep0em 
+    \item X - this indicated the player may make a free cross in the region indicated by the background colour. Either red or blue. If the background is white, the cross can be marked anywhere.
+    \item House - You get to mark a house on the street sheet. More on this is in a bit.
+    \item +1 - You can take an extra turn after this one, where you do not pass your unselected dice to the other player. Only the benefiting player will get any crosses on their sheet.
+\end{enumerate}
+
+All bonuses resolve with the active player completing all of theirs first.
+You'll also want to be aiming to cross off all boxes in each separated 3x2 rectangle on your sheet, as doing so will finish a costume! And these costumes are needed when visiting houses if you want any candy.
+
+\subsection*{Street Sheet}
+Let me give you a tour of the streets. When a player finishes a row or column with a house symbol they get to mark a house off the street sheet. Anywhere on it. Except that one with the cross, that's your house and you've already eaten all the candy there.
+When you mark a house you also write a technique in it, this represents which technique you'll use for this house. Each street can only have one of any technique in it, so pick carefully.
+
+If the technique that allowed you to mark a house was trick (red), mark a square also in the negative points track in your column.
+
+
+\section*{Scoring}
+Once all houses on the street sheet have been marked it's time to score.
+First count which player has majority in a street and give them the number of candy indicated on the right of it.
+Second, for each player count how many of each technique they used on all the houses, and multiply that by how many costumes (either 0, 1, 2) they finished in that technique.
+Finally, minus any candy indicated by the parent-track of negative points.
+
+The player with the most candy wins, ties go to who has the most cute costumes, if still tied then most treat, then treat then scary.
+
+\begin{lem}
+OOne player has marked 3 houses in the first row, 2 in the second row, none in the third or fourth row and the only house in the fifth row. This gives them 3 + 1 = 4 candy as they are majority in the first and fourth row. The techniques they marked were three \textcolor{scaryellow}{scary}, two \textcolor{trickred}{tricks} and one \textcolor{treatblue}{treat}. They finished two costumes in scary, and one in treat but none in any of the others. They would get \textcolor{scaryellow}{(2 x 3)} + \textcolor{treatblue}{(1 x 1)} = 7 candy for their costumes. Finally, since they used the trick technique to cross off three houses they get 4 candy taken away from their parents. So their final score would be 4 + 7 - 4 = 7 candy. Delicious!
+\end{lem}
+
+
+\section*{Strategy Tips}
+\begin{itemize}
+    \itemsep0em 
+    \item Always keep an eye on what will benefit your opponent.
+    \item Giving them dice they can't use is a much part of the game as crossing numbers.
+    \item Finishing costumes is key but don't forget to keep up at marking off houses.
+\end{itemize}
+
+\end{multicols}
+
+\end{document}
+
