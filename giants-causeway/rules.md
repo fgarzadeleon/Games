@@ -26,17 +26,20 @@ A giant can move in 3 ways:
 3. Leap: Move over any number of stones on straight path of adjacent stones until an empty space. The Giant drops stones on top of the stones it moved over. If jumping over a tower of 3, no further stones are dropped on top.
 
 	**Warning:**
-	This action cannot be taken if in any of the adjacent there is a spell stone of the other player’s colour.
+	Giant's cannot leap over each others spell stones                    This action cannot be taken if there is a spell stone of the other player’s colour along the path
 
 If leaping (movement 3) and a tower of 3 stones is created then the tower is either scored or destroyed according to these rules:
 
-a.     If the top stone forms a majority of stones in the tower, then that player receives a point. That is if 2 or 3 stones in the tower are of the topmost colour, that colour gets a point. The tower stays on the board.
+**a.**     If the top stone forms a majority of stones in the tower, then that player has scored the tower, that is if 2 or 3 stones in the tower are of the topmost colour, that player is on step closer to winning. The tower stays on the board.
 	
-b. If the top stone is not the majority colour in the stack, then all stones except the top stone are removed and the top stone is turned around to show the spell face of the stone, this is now a spell stone.
+**b.** If the top stone is not the majority colour in the stack, then all stones except the top stone are removed and the top stone is turned around to show the spell face of the stone, this is now a spell stone.
+
+**Warning:**
+	A player may only ever have at most three spell stones in play. if condition 3b. may happen the new spell stone must be created and an older spell stone chose to turn around.
 
 ## Endgame:
 
-Once a player has scored three towers they win. It is recommended that you swap colours and play a second round with starter player swapped.
+Once a player has three towers of three stones, they win. It is recommended that you swap colours and play a second round with starter player swapped.
 
 ## Quick variant:
 
