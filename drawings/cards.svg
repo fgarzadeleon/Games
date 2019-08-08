@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="cards.svg"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 744.09449 1052.3622"
+   height="297mm"
+   width="210mm">
+  <sodipodi:namedview
+     units="mm"
+     inkscape:window-maximized="0"
+     inkscape:window-y="934"
+     inkscape:window-x="0"
+     inkscape:window-height="803"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="536.22574"
+     inkscape:cx="120.11962"
+     inkscape:zoom="0.4461257"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective4287"
+       inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
+       inkscape:vp_z="744.09449 : 526.1811 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.1811 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="templates"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4178"
+       transform="translate(-73.23159,120.83212)">
+      <rect
+         inkscape:label="#rect4136"
+         y="-40.24968"
+         x="-494.52338"
+         height="315"
+         width="225"
+         id="card"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         inkscape:label="#text4138"
+         sodipodi:linespacing="125%"
+         id="title"
+         y="16.71113"
+         x="-466.04297"
+         style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           y="16.71113"
+           x="-466.04297"
+           id="tspan4140"
+           sodipodi:role="line">TITLE</tspan></text>
+      <flowRoot
+         inkscape:label="#flowRoot4142"
+         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="text"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4144"><rect
+             style="font-size:22.5px;"
+             y="47.780663"
+             x="-478.98862"
+             height="199.36284"
+             width="194.18457"
+             id="rect4146" /></flowRegion><flowPara
+           id="flowPara4148">Some text on the card here.</flowPara></flowRoot>    </g>
+    <g
+       id="g4156">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="-537.44379"
+         y="501.87042"
+         id="rtitle"
+         sodipodi:linespacing="125%"
+         inkscape:label="#text4138"><tspan
+           sodipodi:role="line"
+           id="tspan4155"
+           x="-537.44379"
+           y="501.87042" /></text>
+    </g>
+    <g
+       id="g4949">
+      <rect
+         inkscape:label="#rect4136"
+         y="444.90961"
+         x="-565.92419"
+         height="315"
+         width="225"
+         id="rcard"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91176471;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         inkscape:label="#flowRoot4142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="rtext"
+         xml:space="preserve"
+         transform="translate(-71.4008,485.15928)"><flowRegion
+           id="flowRegion4159"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="47.780663"
+             x="-478.98862"
+             height="199.36284"
+             width="194.18457"
+             id="rect4161" /></flowRegion><flowPara
+           id="flowPara4163">Some text on the card here. Some parts are replaced from CSV. For instance . Same %HERE%. And %there%.</flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-560.96124"
+         y="470.21347"
+         id="text3976"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3978"
+           x="-560.96124"
+           y="470.21347">%milk%</tspan></text>
+      <path
+         id="path4371"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -495.4249,469.56682 c -12.50134,2.8467 -25.14431,4.27704 -38.38604,-0.28019 l 0,0 m 19.05219,-15.69055 c -10.52279,2e-5 -19.05305,1.63087 -19.05274,3.64258 -2.9e-4,2.01171 8.52997,3.64255 19.05274,3.64257 10.52277,-2e-5 19.05302,-1.63086 19.05273,-3.64257 3.1e-4,-2.01171 -8.52994,-3.64256 -19.05273,-3.64258 z m -19.33204,3.64258 -0.28124,12.60742 z m 38.66602,0 -0.28125,13.16796 z"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-544.68958"
+         y="514.39722"
+         id="text4937"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4939"
+           x="-544.68958"
+           y="514.39722">REPLACE</tspan></text>
+    </g>
+  </g>
+  <g
+     style=""
+     inkscape:groupmode="layer"
+     id="cs_layer_1"
+     inkscape:label="Countersheet X 1">
+    <g
+       id="g5664"
+       transform="translate(0.000000,0.000000)">
+      <g
+         id="g5666"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5668"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5670"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5672"
+             sodipodi:role="line">AGE I - Spoiled food</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5674"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5676"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5678" /></flowRegion><flowPara
+             id="flowPara5680">Everyone loses 3 milk.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5682"
+       transform="translate(227.000001,0.000000)">
+      <g
+         id="g5684"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5686"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5688"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5690"
+             sodipodi:role="line">AGE I - Isolation</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5692"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5694"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5696" /></flowRegion><flowPara
+             id="flowPara5698">Lose all cards for one general.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5700"
+       transform="translate(454.000001,0.000000)">
+      <g
+         id="g5702"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5704"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5706"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5708"
+             sodipodi:role="line">AGE I - Bad Climate</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5710"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5712"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5714" /></flowRegion><flowPara
+             id="flowPara5716">Movement costs 2 per 1 move.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5718"
+       transform="translate(0.000000,316.999999)">
+      <g
+         id="g5720"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5722"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5724"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5726"
+             sodipodi:role="line">AGE II - Great Grazing</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5728"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5730"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5732" /></flowRegion><flowPara
+             id="flowPara5734">Each produce action receives one extra milk.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5736"
+       transform="translate(227.000001,316.999999)">
+      <g
+         id="g5738"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5740"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5742"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5744"
+             sodipodi:role="line">AGE II - Open Grassland</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5746"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5748"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5750" /></flowRegion><flowPara
+             id="flowPara5752">Movement is free this turn.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5754"
+       transform="translate(454.000001,316.999999)">
+      <g
+         id="g5756"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5758"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5760"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5762"
+             sodipodi:role="line">AGE II - New Warfare</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5764"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5766"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5768" /></flowRegion><flowPara
+             id="flowPara5770">Attacks have +1 this turn.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5772"
+       transform="translate(0.000000,633.999997)">
+      <g
+         id="g5774"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5776"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5778"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5780"
+             sodipodi:role="line">AGE III - Elect Great Khan</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5782"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5784"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5786" /></flowRegion><flowPara
+             id="flowPara5788">Elect the Great Khan.</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5790"
+       transform="translate(227.000001,633.999997)">
+      <g
+         id="g5792"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5794"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5796"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5798"
+             sodipodi:role="line">AGE III - Campaigns Abroad</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5800"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5802"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5804" /></flowRegion><flowPara
+             id="flowPara5806">Defense can't be used</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g5808"
+       transform="translate(454.000001,633.999997)">
+      <g
+         id="g5810"
+         transform="translate(568.754971,-79.582440) translate(-73.23159,120.83212)">
+        <rect
+           inkscape:label="#rect4136"
+           y="-40.24968"
+           x="-494.52338"
+           height="315"
+           width="225"
+           id="rect5812"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <text
+           inkscape:label="#text4138"
+           sodipodi:linespacing="125%"
+           id="text5814"
+           y="16.71113"
+           x="-466.04297"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           xml:space="preserve"><tspan
+             y="16.71113"
+             x="-466.04297"
+             id="tspan5816"
+             sodipodi:role="line">AGE III - Total War</tspan></text>
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           id="flowRoot5818"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5820"><rect
+               style="font-size:22.5px;"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5822" /></flowRegion><flowPara
+             id="flowPara5824">The produce action can't be used this turn.</flowPara></flowRoot>      </g>
+    </g>
+  </g>
+  <g
+     style=""
+     inkscape:groupmode="layer"
+     id="cs_layer_2"
+     inkscape:label="Countersheet X 2">
+    <g
+       id="g5827"
+       transform="translate(0.000000,0.000000)">
+      <g
+         transform="translate(565.924191,-444.909608)"
+         id="g5829">
+        <rect
+           inkscape:label="#rect4136"
+           y="444.90961"
+           x="-565.92419"
+           height="315"
+           width="225"
+           id="rect5831"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91176471;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <flowRoot
+           inkscape:label="#flowRoot4142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5833"
+           xml:space="preserve"
+           transform="translate(-71.4008,485.15928)"><flowRegion
+             id="flowRegion5835"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+               y="47.780663"
+               x="-478.98862"
+               height="199.36284"
+               width="194.18457"
+               id="rect5837" /></flowRegion><flowPara
+             id="flowPara5839">Some text on the card here. Some parts are replaced from CSV. For instance . Same %HERE%. And nothing.</flowPara></flowRoot>        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-560.96124"
+           y="470.21347"
+           id="text5841"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5843"
+             x="-560.96124"
+             y="470.21347">2</tspan></text>
+        <path
+           id="path5845"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -495.4249,469.56682 c -12.50134,2.8467 -25.14431,4.27704 -38.38604,-0.28019 l 0,0 m 19.05219,-15.69055 c -10.52279,2e-5 -19.05305,1.63087 -19.05274,3.64258 -2.9e-4,2.01171 8.52997,3.64255 19.05274,3.64257 10.52277,-2e-5 19.05302,-1.63086 19.05273,-3.64257 3.1e-4,-2.01171 -8.52994,-3.64256 -19.05273,-3.64258 z m -19.33204,3.64258 -0.28124,12.60742 z m 38.66602,0 -0.28125,13.16796 z"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-544.68958"
+           y="514.39722"
+           id="text5847"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5849"
+             x="-544.68958"
+             y="514.39722">REPLACE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
