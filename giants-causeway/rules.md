@@ -16,7 +16,7 @@ Once all giants have been placed we are ready to begin.
 
 ## Pieces
 
-Each player has 2 giants and three spellstones. Spellstones prevent the movement of giants in specific ways. The *trapping* giant can prevent an adjacent giant to move and a *spikey* giant does not allow giants to walk on top of it.
+Each player has 2 giants and three spellstones. Spellstones prevent the movement of giants in specific ways. The *trapping* giant can prevent an adjacent giant to move and a *spikey* giant does not allow giants to leap on top of it.
 
 ## How a giant moves
 
