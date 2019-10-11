@@ -8,7 +8,7 @@ As we build the Giant’s Causeway, the stones will start stacking on top of eac
 
 Place 3 stones of each with the blank side up in the following configuration.
 
-!!!!!!Image
+![Setup](setup.png)
 
 Then in turns and starting with the white stones place a giant in any free spot adjacent to any of the stones already on the board. Then the player with the black stones places their giant. Then the player with the white stones places their last giant followed by the player with the black stones.
 
@@ -26,14 +26,14 @@ The *trapper* giant can prevent an adjacent giant to move and a *spikey* giant d
 
 ## How a giant moves
 
-A giant can move in 2 ways:
+A giant can move in 3 ways:
 
 1. Step: Place a stone under a giant and move into any empty space whilst adhering to the restrictions of movement.
 
 	**Restrictions:**
 	The Causeway cannot break apart in two. A giant cannot move into a position it cannot slide through. If you are trapped by a *trapper* giant you can not use the Step action and need to use the escape action.
 	
-2. Escape:
+2. Escape: If trapped the only way you can move is by the escape action. Place a stone in your current position and place your giant adjecent to the stone you just placed. This is similar to the Step action except that you can only move one position away from your current position. 
 
 3. Leap: Move over any number of stones on straight path of adjacent stones until an empty space. The giant must drop one stone or two stones over the stones it leaped over. You may only place one stone per stone you leaped over. The choice of where in the path to drop stones is upto the player. If jumping over a tower of 3 stones or a spellstone, no further stones are dropped on top.
 
@@ -42,9 +42,14 @@ A giant can move in 2 ways:
 	
 ### Giant's special abilities
 
-Trapper giant:
+Trapper giant: This giant can move to a position where it is only adjecent to a giant. In this case it has trapped that giant which has to move by using the escape action.
 
-Spikey giant:
+![trappin](trapping.png)
+
+In the figure the black trapper giant (yellow lines) is trapping the white spikey giant.
+
+
+Spikey giant: A spikey giant prevents the leaping of any other giant over it.
 
 ## Scoring
 
@@ -62,6 +67,8 @@ If leaping (movement 3) and a tower of 3 stones is created then the tower is eit
 Once a player has three towers of three stones, they win. It is recommended that you swap colours and play a second round with starter player swapped.
 
 ## Setup variants:
+
+Place the first 6 stones in the setup in any way you want, feel free to explore new setups. Then continue the giant placing phase.
 
 ## Quick variant:
 
