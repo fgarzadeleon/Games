@@ -1,76 +1,90 @@
-# Giant's Causeway
+# Giant’s Causeway
 
-## Objective
+* Player Count: 2
+* Approx. playing time: 15 minutes
+* Ages: 8-99
 
-As we build the Giant’s Causeway, the stones will start stacking on top of each other. Once a player has built 3 towers of 3 stones the game ends.
+## Introduction
 
-## Setup and Game Order
+Players take on the role of mythical giants, taking turns to move and leap around the causeway, adding stones and building towers. The first player to build 3 towers of their own wins the game.
+Components
 
-Place 3 stones of each with the blank side up in the following configuration.
+52 stones:
 
-![Setup](setup.png)
+* 4 Giants (2 white, 2 black)
+* 6 Barrier stones (3 white, 3 black)
+* 42 blank stones (21 white, 21 black)
 
-Then in turns and starting with the white stones place a giant in any free spot adjacent to any of the stones already on the board. Then the player with the black stones places their giant. Then the player with the white stones places their last giant followed by the player with the black stones.
+## Setup
 
-Once all giants have been placed we are ready to begin with white moving a giant.
+Place the 2 blank stones in the following arrangement:
 
-## Pieces
-E
-Each player will have: 
-* A spikey giant
-* A trapper giant
-* Three spellstonses
-* 20 blank stones
+![](images/starting-stones.png)
 
-The *trapper* giant can prevent an adjacent giant to move and a *spikey* giant does not allow giants to leap on top of it. Spellstones prevent the movement of giants in specific ways.
+Assign the white stones to one player and the black stones to the other player.
 
-## How a giant moves
-
-A giant can move in 3 ways:
-
-1. Step: Place a stone under a giant and move into any empty space whilst adhering to the restrictions of movement.
-
-	**Restrictions:**
-	The Causeway cannot break apart in two. A giant cannot move into a position it cannot slide through. If you are trapped by a *trapper* giant you can not use the Step action and need to use the escape action.
-	
-2. Escape: If trapped the only way you can move is by the escape action. Place a stone in your current position and place your giant adjecent to the stone you just placed. This is similar to the Step action except that you can only move one position away from your current position. 
-
-3. Leap: Move over any number of stones on straight path of adjacent stones until an empty space. The giant must drop one stone or two stones over the stones it leaped over. You may only place one stone per stone you leaped over. The choice of where in the path to drop stones is upto the player. If jumping over a tower of 3 stones or a spellstone, no further stones are dropped on top.
-
-	**Warning:**
-	Giants cannot leap over any *spikey* giant, no matter their colour, or the spellstone of the opposing player (i.e. you can leap over your own spellstones but not your own *spikey* giant).
-	
-### Giant's special abilities
-
-Trapper giant: This giant can move to a position where it is only adjecent to a giant. In this case it has trapped that giant which has to move by using the escape action.
-
-![trappin](trapping.png)
-
-In the figure the black trapper giant (yellow lines) is trapping the white spikey giant.
+In alternating turn order starting with white, each player place their 2 Giant stones and a blank stones adjacent to any piece already placed. A giant may not be placed in a position where it is only adjacent to another giant.
 
 
-Spikey giant: A spikey giant prevents the leaping of any other giant over it.
 
-## Scoring
+## How to play
 
-If leaping (movement 3) and a tower of 3 stones is created then the tower is either scored or destroyed according to these rules:
+The white player goes first. Players then take alternating turns.
 
-**a.**     If the top stone forms a majority of stones in the tower, then that player has scored the tower, that is if 2 or 3 stones in the tower are of the topmost colour, that player is on step closer to winning. The tower stays on the board.
-	
-**b.** If the top stone is not the majority colour in the stack, then replace the current top stone with a spellstone. This stack now has a spell and a rival giant cannot leap over it
+The setup might create a game that looks the following way: 
 
-**Warning:**
-	A player may only ever have at most three spell stones in play. if condition 3b. may happen the new spell stone must be created and an older spell stone chose to turn around.
+![](images/step-1.png)
 
-## Endgame:
+On your turn, you must choose one of your Giants and either Step or Leap:
 
-Once a player has three towers of three stones, they win. It is recommended that you swap colours and play a second round with starter player swapped.
+### 1. Step
+----
+Take a blank stone of your colour from the supply and place it under your Giant. Then place the Giant in **any other position** adjacent to at least one stone in the Causeway. This includes positions that may be completely surrounded by stones or Giants.
 
-## Setup variants:
+*Player A has stepped into the position shown above by a blue arrow. The board now looks like this:*
 
-Place the first 6 stones in the setup in any way you want, feel free to explore new setups. Then continue the giant placing phase.
+![](images/step-2.png)
 
-## Quick variant:
+**Trapping your opponent**
+If you place your Giant so that it is adjacent to an opponent’s Giant and not adjacent to any other stone in the Causeway, you have trapped the opponent’s Giant.
 
-Play to 3 towers and no spell stones, if (3b) happens that tower stays instead of turning into a spell stone. Whoever has the most stones in towers wins (9 stones total, 5 needed for majority).
+**Escaping a trap**
+If your Giant is **trapped**, you can only step to a new position adjacent to the new blank stone you just placed.
 
+### 2. Leap
+----
+Jump your Giant in a straight path over any number of connected stones or stacks of stones and place it in the first empty space it reaches.
+
+![](images/leap-1.png)
+
+You **cannot** leap if you are trapped or if it would break the causeway in two.
+
+You **cannot** leap over any Giants or one of their Barrier stones (see Completing Towers).
+
+**Dropping stones and building Towers**
+
+When you leap, you must drop 1 or 2 stones of your own colour, taken from the supply, onto 1 or 2 of the stones you leap over. When you drop a stone over another, you create a Tower.
+
+When you drop the third stone in the Tower you have create either completed a Tower or created Barrier.
+
+When you leap you **cannot** drop a stone over a Tower with 3 stones in it.
+
+You **cannot** choose to drop 0 stones or more than 2 stones. If you drop 2 stones, you must drop them onto separate Towers. If there is no legal position to drop a stone you may leap without placing stones.
+
+**Completing Towers**
+
+If you drop a third stone onto a Tower you have completed it:
+
+If the other two stones in the Tower belong to your opponent, remove the stone you just dropped and replace it with one of your Barrier stones. You have blocked your opponent from claiming the Tower for themself. If you have already placed all three of your Spellstones, you must move one of them from another Tower.
+
+If at least one of the other two stones in the Tower is yours, you have won the Tower. Leave all the stones in it in place.
+
+![](images/leap-2.png)
+
+## End of the game
+
+The first player to win three Towers wins the game.
+
+If no player has three Towers and one player runs out of pieces the game is over. The player without pieces must destroy a Tower. After that whoever has the most Towers wins.
+
+In the case that both players are tied in number of Towers then the player with the most Barrier stones wins.
