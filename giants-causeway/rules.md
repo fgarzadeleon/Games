@@ -88,3 +88,7 @@ The first player to win three Towers wins the game.
 If no player has three Towers and one player runs out of pieces the game is over. The player without pieces must destroy a Tower. After that whoever has the most Towers wins.
 
 In the case that both players are tied in number of Towers then the player with the most Barrier stones wins.
+
+## Other info
+
+Tabletop Simulator 2125099179
